@@ -2,7 +2,7 @@
 - 👀 I’m interested in English study
 - 🌱 I’m currently learning React Vue Node Goland Python ...
 - 💞️ I’m looking for a remote job
-- 📫 How to reach me licslan@sina.com
+- 📫 How to reach me licslan@sina.com || visit https://github.com/licslan
 
 <!---
 ailin-licslan/ailin-licslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
