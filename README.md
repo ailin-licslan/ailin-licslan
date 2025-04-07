@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lin, a backend oriented engineer, also know fontend such vue react ect
+- 👋 Hi, I’m Lin, a backend oriented engineer(Java/Golang/Python Web3), also know fontend such vue react ect
 - 👀 I’m interested in English study
-- 🌱 I’m currently learning React Vue Node Goland Python ...
+- 🌱 I’m currently learning Golang Solidity Web3...
 - 💞️ I’m looking for a remote job
 - 📫 How to reach me licslan@sina.com || visit https://github.com/licslan
 
