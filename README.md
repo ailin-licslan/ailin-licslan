@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lin, a backend oriented engineer(Java/Golang/Python Web3), also know fontend such vue react ect
+- 👋 Hi, I’m Lin, a backend oriented engineer(Java/Golang/Python Web3), also know fontend such vue react etc.
 - 👀 I’m interested in English study
 - 🌱 I’m currently learning Golang Solidity Web3...
 - 💞️ I’m looking for a remote job
