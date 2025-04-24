@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lin, a backend oriented engineer(Java/Golang/Python), also know some fontend(React,Vue...), Web3(solidity, hardhat, ethers...), a full stack developer.
+- 👋 Hi, I’m Lin, a backend oriented engineer(Java/Golang/Python), also know some frontend(React,Vue...), Web3(solidity, hardhat, ethers...), a full stack developer.
 - 👀 I’m interested in English study
 - 🌱 I’m currently focus on Web3 area ... 
 - 💞️ I’m looking for a remote job
